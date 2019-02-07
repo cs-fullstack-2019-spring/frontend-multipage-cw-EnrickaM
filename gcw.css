@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: red;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr  ;
+}
+.makeBackgroundBlack{
+    background: black;
+}
+.makeBackgroundWhite{
+    background: white;
+}
+button{
+    border: none;
+}
+.color{
+    color: white;
+}
